@@ -40,6 +40,7 @@ This data set has Ementa (summary) decisions from the Tribunal de Justiça de Al
 - Required packages
 - Code
 - Data
+- Cuda-based GPU (for Deep Learning models)
 
 ### Execution
 
