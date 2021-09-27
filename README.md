@@ -42,7 +42,7 @@ python predicting-brazilian-court-decisions.py
 
 ### Requirements
 
-- Python 3
+- Python 3.7.7
 - Source-code `predicting-brazilian-court-decisions.py`
 - Data `dataset.zip`
 - Cuda-based GPU (required only for Deep Learning models)
