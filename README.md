@@ -5,14 +5,13 @@ Repository of the paper entitled _Predicting Brazilian court decisions_.
 
 ### Versions
 
-- [2019-04-20 Technical Report @ arXiv](https://arxiv.org/abs/1905.10348)
+- [2022 Full paper published at **PeerJ Computer Science journal**](https://peerj.com/articles/cs-904/)
 - [2019-04-21 Technical Report @ Github](https://github.com/proflage/technical-reports/blob/020fe07c06fc551a1305055a07c806f930a39fae/2019-04-21-Predicting_Brazilian_court_decisions.pdf)
-- [2021 Full paper (TBA)]()
+- [2019-04-20 Technical Report @ arXiv](https://arxiv.org/abs/1905.10348)
 
 ### Citation
 
-- André Lage-Freitas, Héctor Allende-Cid, Orivaldo Santana, and Lívia Oliveira-Lage. _Predicting Brazilian court decisions_. Technical Report. 2019.
-- [Bibtex citation TBA]()
+- _Lage-Freitas A, Allende-Cid H, Santana O, Oliveira-Lage L. 2022. Predicting Brazilian Court Decisions. PeerJ Computer Science 8:e904 https://doi.org/10.7717/peerj-cs.904_
 
 
 
